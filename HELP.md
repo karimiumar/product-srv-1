@@ -12,3 +12,9 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+
+## Create two more copies of this service and host them on 
+### 1 http://localhost:8080
+### 2 http://localhost:8090
+### 3 http://localhost:9080
+
